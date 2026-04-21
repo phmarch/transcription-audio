@@ -1,0 +1,11 @@
+file_name,audio_duration_s,doc_creation_time_s,transcription_time_s,export_time_s,total_time_s,realtime_factor,output_path
+sub-DC22124_ses-v1_task-sandwich.wav,50.01,0.0,19.11,0.0,19.12,0.38,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22124_ses-v1_task-sandwich.cha
+sub-DC22127_ses-v2_task-sandwich.wav,30.63,0.0,24.17,0.0,24.17,0.79,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22127_ses-v2_task-sandwich.cha
+sub-DC22128_ses-v1_task-sandwich.wav,40.16,0.0,12.3,0.0,12.3,0.31,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22128_ses-v1_task-sandwich.cha
+sub-DC22129_ses-v2_task-sandwich.wav,32.57,0.0,12.33,0.0,12.33,0.38,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22129_ses-v2_task-sandwich.cha
+sub-DC22135_ses-v1_task-sandwich.wav,17.29,0.0,6.0,0.0,6.0,0.35,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22135_ses-v1_task-sandwich.cha
+sub-DC22136_ses-v1_task-sandwich.wav,28.2,0.0,6.72,0.0,6.72,0.24,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22136_ses-v1_task-sandwich.cha
+sub-DC22212_ses-v1_task-sandwich.wav,42.27,0.0,13.3,0.0,13.3,0.31,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22212_ses-v1_task-sandwich.cha
+sub-DC22214_ses-v1_task-sandwich.wav,37.58,0.0,12.47,0.0,12.47,0.33,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22214_ses-v1_task-sandwich.cha
+sub-DC22216_ses-v1_task-sandwich.wav,43.25,0.0,12.92,0.0,12.92,0.3,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub-DC22216_ses-v1_task-sandwich.cha
+sub_DC22137_ses-v1_task-sandwich.wav,23.13,0.0,6.32,0.0,6.32,0.27,/Users/KarineMarcotte_1/Documents/AnneSo/ba_whisper_output/sub_DC22137_ses-v1_task-sandwich.cha

@@ -1,0 +1,25 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22136_ses-v1_task-wab-audio, audio
+*PAR0:	C 'est parti . 2620_3160
+%wor:	C 2620_2800 'est 2800_2880 parti 3020_3160 .
+*PAR0:	C 'est une maison sur le bord de l 'eau . 5780_7120
+%wor:	C 5780_5960 'est 5960_6040 une 6070_6100 maison 6230_6360 sur 6440_6520 le 6570_6620 bord 6670_6720 de 6780_6840 l 6900_6960 'eau 6960_7120 .
+*PAR0:	Il y a une famille qui fait un pique nique avec des amoureux . 7520_10180
+%wor:	Il 7520_7580 y a 7600_7620 une 7660_7700 famille 7870_8040 qui 8140_8240 fait 8330_8420 un 8500_8580 pique nique 8690_9140 avec 9360_9580 des 9630_9680 amoureux 9930_10180 .
+*PAR0:	Il y a un garçon qui joue sur le volant . 11140_12640
+%wor:	Il 11140_11320 y 11350_11380 a un 11420_11460 garçon 11590_11720 qui 11790_11860 joue 11940_12020 sur 12090_12160 le 12220_12280 volant 12460_12640 .
+*PAR0:	Une petite fille qui fait un château de sable . 13120_16000
+%wor:	Une 13120_13240 petite 13330_13420 fille 13510_13600 qui 13740_13880 fait 14620_15360 un 15400_15440 château 15530_15620 de 15670_15720 sable 15860_16000 .
+*PAR0:	et un pêcheur qui est en train d 'attraper un poisson . 16060_18180
+%wor:	et 16060_16120 un 16220_16320 pêcheur 16530_16740 qui 16830_16920 est 16980_17040 en 17070_17100 train 17130_17160 d 17220_17280 'attraper 17280_17680 un 17770_17860 poisson 18020_18180 .
+*PAR0:	Est ce que tu as autre chose à ajouter ? 19960_20960
+%wor:	Est ce 19960_20120 que 20150_20180 tu 20220_20260 as autre 20330_20400 chose 20480_20560 à 20620_20680 ajouter 20820_20960 ?
+*PAR0:	Non . 21400_21540
+%wor:	Non 21400_21540 .
+*PAR0:	Parfait merci . 23120_23660
+%wor:	Parfait 23120_23300 merci 23540_23660 .
+@End

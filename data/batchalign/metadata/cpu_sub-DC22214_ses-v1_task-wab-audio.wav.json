@@ -1,0 +1,8 @@
+{
+    "audio_file": "./data/input/sub-DC22214_ses-v1_task-wab-audio.wav",
+    "torch_backend": "cpu",
+    "torch_dtype": "torch.float32",
+    "audio_duration_s": 40.285714285714285,
+    "pipeline_creation_time_s": 4.313418865203857,
+    "transcription_time_s": 12.459687948226929
+}

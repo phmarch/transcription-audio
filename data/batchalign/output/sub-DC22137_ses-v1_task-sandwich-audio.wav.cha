@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22137_ses-v1_task-sandwich-audio, audio
+*PAR0:	Dis moi comment tu ferais un sandwich au jambon et au fromage ? 1280_5640
+%wor:	Dis moi 1280_1920 comment 2090_2260 tu 2690_3120 ferais 3330_3540 un 3650_3760 sandwich 3990_4220 au 4340_4460 jambon 4650_4840 et 4910_4980 au 5030_5080 fromage 5360_5640 ?
+*PAR0:	Je prendrais deux tranches de pain . 8560_11820
+%wor:	Je 8560_8980 prendrais 9220_9460 deux 9610_9760 tranches 10030_10300 de 10520_10740 pain 11280_11820 .
+*PAR0:	Je mettrais de la mayonnaise ou du beurre dedans . 13010_15880
+%wor:	Je 13010_13220 mettrais 13430_13640 de 13740_13840 la 14170_14500 mayonnaise 14700_14900 ou 15040_15180 du 15240_15300 beurre 15440_15580 dedans 15730_15880 .
+*PAR0:	Et puis je mettrais ensuite le jambon le fromage la salade . 17150_21660
+%wor:	Et 17150_17360 puis 17520_17680 je 17770_17860 mettrais 18050_18240 ensuite 18420_18600 le 18900_19200 jambon 19440_19680 le 20380_20660 fromage 20870_21080 la 21200_21240 salade 21450_21660 .
+@End

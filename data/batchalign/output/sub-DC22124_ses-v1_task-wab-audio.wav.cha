@@ -1,0 +1,15 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22124_ses-v1_task-wab-audio, audio
+*PAR0:	Pour la prochaine tâche je vais te demander de me raconter ce qui se passe sur cette image . 5800_9360
+%wor:	Pour 5800_6060 la 6120_6180 prochaine 6310_6440 tâche 6630_6820 je 6980_7020 vais 7060_7100 te 7160_7220 demander 7380_7540 de 7600_7660 me 7700_7740 raconter 7920_8100 ce 8190_8280 qui 8320_8360 se 8420_8480 passe 8550_8620 sur 8690_8760 cette 8850_8940 image 9150_9360 .
+*PAR0:	Une famille ils font un pique nique on va dire à leur chalet . 11720_16600
+%wor:	Une 11720_11980 famille 12190_12400 ils 13020_13300 font 13380_13460 un 13550_13640 pique nique 13730_14240 on 14960_15420 va 15480_15540 dire 15690_15840 à 15930_16020 leur 16090_16160 chalet 16380_16600 .
+*PAR0:	Donc ici on voit le papa qui lit un livre la mère qui verse un liquide . 18040_23220
+%wor:	Donc 18040_18300 ici 18390_18480 on 18530_18580 voit 18670_18760 le 18910_19060 papa 19200_19340 qui 19490_19640 lit 19800_19960 un 20040_20120 livre 20220_20320 la 20630_20680 mère 20830_20980 qui 21070_21160 verse 21390_21620 un 22000_22380 liquide 22800_23220 .
+*PAR0:	et puis l 'enfant qui s 'amuse avec son chien et son cerveau . 23740_30280
+%wor:	et 23740_24260 puis 24420_24580 l 24910_25240 'enfant 25240_27400 qui 27760_28120 s 28190_28260 'amuse 28260_28680 avec 28810_28940 son 29060_29180 chien 29340_29500 et 29610_29720 son 29800_29880 cerveau 30080_30280 .
+@End

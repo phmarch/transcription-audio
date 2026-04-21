@@ -1,0 +1,586 @@
+{
+  "text": " Je commencerais par sortir le jambon pis le fromage du frigo. Je prendrai deux tranches de pain dans la miche de pain. Je je sortirais Ah! En m\u00eame temps que je sortirais le jambon pis le fromage, j'aurais aussi sorti la maillot pis la moutarde. . Puis, apr\u00e8s \u00e7a, je mettrais de la maillot sur un pin, de la moutarde sur un autre pin, du jambon, du fromage, et je refermerais l le sandwich. Je rangerais tout c'que j'ai sorti.",
+  "chunks": [
+    {
+      "text": "Je",
+      "timestamp": [
+        2.42,
+        9.9
+      ]
+    },
+    {
+      "text": "commencerais",
+      "timestamp": [
+        9.92,
+        10.32
+      ]
+    },
+    {
+      "text": "par",
+      "timestamp": [
+        10.32,
+        10.48
+      ]
+    },
+    {
+      "text": "sortir",
+      "timestamp": [
+        10.48,
+        10.86
+      ]
+    },
+    {
+      "text": "le",
+      "timestamp": [
+        10.86,
+        11.0
+      ]
+    },
+    {
+      "text": "jambon",
+      "timestamp": [
+        11.0,
+        11.33
+      ]
+    },
+    {
+      "text": "pis",
+      "timestamp": [
+        11.33,
+        11.43
+      ]
+    },
+    {
+      "text": "le",
+      "timestamp": [
+        11.43,
+        11.530000000000001
+      ]
+    },
+    {
+      "text": "fromage",
+      "timestamp": [
+        11.530000000000001,
+        11.969999999999999
+      ]
+    },
+    {
+      "text": "du",
+      "timestamp": [
+        11.969999999999999,
+        12.17
+      ]
+    },
+    {
+      "text": "frigo.",
+      "timestamp": [
+        12.17,
+        12.64
+      ]
+    },
+    {
+      "text": "Je",
+      "timestamp": [
+        12.76,
+        13.0
+      ]
+    },
+    {
+      "text": "prendrai",
+      "timestamp": [
+        13.1,
+        13.64
+      ]
+    },
+    {
+      "text": "deux",
+      "timestamp": [
+        13.66,
+        14.010000000000002
+      ]
+    },
+    {
+      "text": "tranches",
+      "timestamp": [
+        14.010000000000002,
+        14.45
+      ]
+    },
+    {
+      "text": "de",
+      "timestamp": [
+        14.45,
+        14.579999999999998
+      ]
+    },
+    {
+      "text": "pain",
+      "timestamp": [
+        14.579999999999998,
+        14.98
+      ]
+    },
+    {
+      "text": "dans",
+      "timestamp": [
+        15.139999999999999,
+        15.469999999999999
+      ]
+    },
+    {
+      "text": "la",
+      "timestamp": [
+        15.469999999999999,
+        15.8
+      ]
+    },
+    {
+      "text": "miche",
+      "timestamp": [
+        15.959999999999999,
+        16.35
+      ]
+    },
+    {
+      "text": "de",
+      "timestamp": [
+        16.35,
+        16.5
+      ]
+    },
+    {
+      "text": "pain.",
+      "timestamp": [
+        16.5,
+        16.84
+      ]
+    },
+    {
+      "text": "Je",
+      "timestamp": [
+        18.16,
+        18.54
+      ]
+    },
+    {
+      "text": "je",
+      "timestamp": [
+        18.540000000000003,
+        18.779999999999998
+      ]
+    },
+    {
+      "text": "sortirais",
+      "timestamp": [
+        18.78,
+        19.439999999999998
+      ]
+    },
+    {
+      "text": "Ah!",
+      "timestamp": [
+        19.44,
+        19.74
+      ]
+    },
+    {
+      "text": "En",
+      "timestamp": [
+        19.82,
+        19.990000000000002
+      ]
+    },
+    {
+      "text": "m\u00eame",
+      "timestamp": [
+        19.990000000000002,
+        20.17
+      ]
+    },
+    {
+      "text": "temps",
+      "timestamp": [
+        20.17,
+        20.3
+      ]
+    },
+    {
+      "text": "que",
+      "timestamp": [
+        20.3,
+        20.41
+      ]
+    },
+    {
+      "text": "je",
+      "timestamp": [
+        20.41,
+        20.490000000000002
+      ]
+    },
+    {
+      "text": "sortirais",
+      "timestamp": [
+        20.490000000000002,
+        20.86
+      ]
+    },
+    {
+      "text": "le",
+      "timestamp": [
+        20.86,
+        20.93
+      ]
+    },
+    {
+      "text": "jambon",
+      "timestamp": [
+        20.93,
+        21.189999999999998
+      ]
+    },
+    {
+      "text": "pis",
+      "timestamp": [
+        21.189999999999998,
+        21.259999999999998
+      ]
+    },
+    {
+      "text": "le",
+      "timestamp": [
+        21.259999999999998,
+        21.34
+      ]
+    },
+    {
+      "text": "fromage,",
+      "timestamp": [
+        21.34,
+        21.64
+      ]
+    },
+    {
+      "text": "j",
+      "timestamp": [
+        21.64,
+        21.7
+      ]
+    },
+    {
+      "text": "'aurais",
+      "timestamp": [
+        21.7,
+        21.919999999999998
+      ]
+    },
+    {
+      "text": "aussi",
+      "timestamp": [
+        21.94,
+        22.27
+      ]
+    },
+    {
+      "text": "sorti",
+      "timestamp": [
+        22.27,
+        22.84
+      ]
+    },
+    {
+      "text": "la",
+      "timestamp": [
+        22.880000000000003,
+        23.5
+      ]
+    },
+    {
+      "text": "maillot",
+      "timestamp": [
+        23.560000000000002,
+        24.0
+      ]
+    },
+    {
+      "text": "pis",
+      "timestamp": [
+        24.0,
+        24.17
+      ]
+    },
+    {
+      "text": "la",
+      "timestamp": [
+        24.17,
+        24.32
+      ]
+    },
+    {
+      "text": "moutarde.",
+      "timestamp": [
+        24.32,
+        24.84
+      ]
+    },
+    {
+      "text": ".",
+      "timestamp": [
+        24.84,
+        24.9
+      ]
+    },
+    {
+      "text": "Puis,",
+      "timestamp": [
+        25.34,
+        25.82
+      ]
+    },
+    {
+      "text": "apr\u00e8s",
+      "timestamp": [
+        25.880000000000003,
+        26.16
+      ]
+    },
+    {
+      "text": "\u00e7a,",
+      "timestamp": [
+        26.16,
+        26.32
+      ]
+    },
+    {
+      "text": "je",
+      "timestamp": [
+        26.32,
+        26.43
+      ]
+    },
+    {
+      "text": "mettrais",
+      "timestamp": [
+        26.43,
+        26.919999999999998
+      ]
+    },
+    {
+      "text": "de",
+      "timestamp": [
+        27.02,
+        27.12
+      ]
+    },
+    {
+      "text": "la",
+      "timestamp": [
+        27.12,
+        27.23
+      ]
+    },
+    {
+      "text": "maillot",
+      "timestamp": [
+        27.23,
+        27.450000000000003
+      ]
+    },
+    {
+      "text": "sur",
+      "timestamp": [
+        27.450000000000003,
+        27.59
+      ]
+    },
+    {
+      "text": "un",
+      "timestamp": [
+        27.59,
+        27.71
+      ]
+    },
+    {
+      "text": "pin,",
+      "timestamp": [
+        27.71,
+        28.0
+      ]
+    },
+    {
+      "text": "de",
+      "timestamp": [
+        28.02,
+        28.12
+      ]
+    },
+    {
+      "text": "la",
+      "timestamp": [
+        28.12,
+        28.189999999999998
+      ]
+    },
+    {
+      "text": "moutarde",
+      "timestamp": [
+        28.189999999999998,
+        28.439999999999998
+      ]
+    },
+    {
+      "text": "sur",
+      "timestamp": [
+        28.439999999999998,
+        28.57
+      ]
+    },
+    {
+      "text": "un",
+      "timestamp": [
+        28.57,
+        28.67
+      ]
+    },
+    {
+      "text": "autre",
+      "timestamp": [
+        28.67,
+        28.810000000000002
+      ]
+    },
+    {
+      "text": "pin,",
+      "timestamp": [
+        28.810000000000002,
+        29.139999999999997
+      ]
+    },
+    {
+      "text": "du",
+      "timestamp": [
+        29.3,
+        29.54
+      ]
+    },
+    {
+      "text": "jambon,",
+      "timestamp": [
+        29.54,
+        29.939999999999998
+      ]
+    },
+    {
+      "text": "du",
+      "timestamp": [
+        30.0,
+        30.18
+      ]
+    },
+    {
+      "text": "fromage,",
+      "timestamp": [
+        30.18,
+        30.64
+      ]
+    },
+    {
+      "text": "et",
+      "timestamp": [
+        30.64,
+        30.88
+      ]
+    },
+    {
+      "text": "je",
+      "timestamp": [
+        30.880000000000003,
+        31.139999999999997
+      ]
+    },
+    {
+      "text": "refermerais",
+      "timestamp": [
+        31.16,
+        31.86
+      ]
+    },
+    {
+      "text": "l",
+      "timestamp": [
+        31.860000000000003,
+        32.04
+      ]
+    },
+    {
+      "text": "le",
+      "timestamp": [
+        32.28,
+        32.54
+      ]
+    },
+    {
+      "text": "sandwich.",
+      "timestamp": [
+        32.54,
+        33.0
+      ]
+    },
+    {
+      "text": "Je",
+      "timestamp": [
+        34.019999999999996,
+        34.24
+      ]
+    },
+    {
+      "text": "rangerais",
+      "timestamp": [
+        34.24,
+        34.67
+      ]
+    },
+    {
+      "text": "tout",
+      "timestamp": [
+        34.67,
+        34.89
+      ]
+    },
+    {
+      "text": "c",
+      "timestamp": [
+        34.89,
+        34.96
+      ]
+    },
+    {
+      "text": "'que",
+      "timestamp": [
+        34.96,
+        35.11
+      ]
+    },
+    {
+      "text": "j",
+      "timestamp": [
+        35.11,
+        35.16
+      ]
+    },
+    {
+      "text": "'ai",
+      "timestamp": [
+        35.16,
+        35.3
+      ]
+    },
+    {
+      "text": "sorti.",
+      "timestamp": [
+        35.3,
+        37.54
+      ]
+    }
+  ]
+}

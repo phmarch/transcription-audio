@@ -1,0 +1,49 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22112_ses-v1_task-sandwich-audio, audio
+*PAR0:	dis moi comment . 2840_3620
+%wor:	dis moi 2840_3240 comment 3430_3620 .
+*PAR0:	tu ferais un sandwich . 3880_5320
+%wor:	tu 3880_4140 ferais 4300_4460 un 4600_4740 sandwich 5030_5320 .
+*PAR0:	au jambon et au fromage . 5620_7460
+%wor:	au 5620_5920 jambon 6210_6500 et 6610_6720 au 6790_6860 fromage 7160_7460 .
+*PAR0:	parfait . 8680_8860
+%wor:	parfait 8680_8860 .
+*PAR0:	donc . 9680_9860
+%wor:	donc 9680_9860 .
+*PAR0:	je sors deux tranches de pain . 11280_12340
+%wor:	je 11280_11460 sors 11540_11620 deux 11690_11760 tranches 11890_12020 de 12070_12120 pain 12230_12340 .
+*PAR0:	moi j 'aime que mon sandwich soit un peu grillé parce que c 'est croustillant . 12920_15280
+%wor:	moi 12920_13100 j 13150_13200 'aime 13200_13300 que 13350_13400 mon 13460_13520 sandwich 13660_13800 soit 13890_13980 un 14020_14060 peu 14110_14160 grillé 14310_14460 parce 14540_14620 que 14660_14700 c 14750_14800 'est 14800_14840 croustillant 15060_15280 .
+*PAR0:	fait que j 'ai mis au toast tube . 15380_16260
+%wor:	fait 15380_15480 que 15530_15580 j 15610_15640 'ai mis 15670_15700 au 15760_15820 toast 15910_16000 tube 16130_16260 .
+*PAR0:	j 'attends que ça sorte du toast tube . 16510_17740
+%wor:	j 16510_16760 'attends 16760_16840 que 16900_16960 ça 17000_17040 sorte 17120_17200 du 17260_17320 toast 17410_17500 tube 17620_17740 .
+*PAR0:	je mets du beurre . 18300_19700
+%wor:	je 18300_18480 mets 18570_18660 du 18970_19280 beurre 19490_19700 .
+*PAR0:	puis je mets de la mayo parce que j 'aime ça quand c 'est juicy . 19920_21900
+%wor:	puis 19920_20140 je 20180_20220 mets 20290_20360 de 20410_20460 la 20520_20580 mayo 20700_20820 parce 20970_21120 que 21150_21180 j 21220_21260 'aime 21260_21320 ça 21380_21440 quand 21490_21540 c 21580_21620 'est 21620_21660 juicy 21780_21900 .
+*PAR0:	ah puis de la moutarde . 22150_22940
+%wor:	ah 22150_22400 puis 22450_22500 de 22530_22560 la 22590_22620 moutarde 22780_22940 .
+*PAR0:	puis je mets de la moutarde . 23540_24240
+%wor:	puis 23540_23720 je 23730_23740 mets 23780_23820 de 23860_23900 la 23920_23940 moutarde 24090_24240 .
+*PAR0:	puis je mets du petit jambon forêt noir . 24940_27100
+%wor:	puis 24940_25120 je 25210_25300 mets 25370_25440 du 25770_26100 petit 26190_26280 jambon 26450_26620 forêt 26750_26880 noir 26990_27100 .
+*PAR0:	des petites tranches minces [/] minces . 27210_28660
+%wor:	des 27210_27320 petites 27400_27480 tranches 27650_27820 minces 27960_28100 minces 28380_28660 .
+*PAR0:	avec une petite tranche de fromage . 28860_32400
+%wor:	avec 28860_29060 une 30120_31180 petite 31260_31340 tranche 31560_31780 de 31930_32080 fromage 32240_32400 .
+*PAR0:	j 'aime ça le fromage suisse . 32470_33700
+%wor:	j 32470_32540 'aime 32540_32960 ça 33010_33060 le 33090_33120 fromage 33240_33360 suisse 33530_33700 .
+*PAR0:	je mettrais de la laitue pas de tomates parce que j 'aime pas ça . 33890_36460
+%wor:	je 33890_34080 mettrais 34240_34400 de 34440_34480 la 34520_34560 laitue 34760_34960 pas 35270_35360 de 35400_35440 tomates 35550_35660 parce 35750_35840 que 35890_35940 j 35980_36020 'aime 36020_36100 pas 36160_36220 ça 36340_36460 .
+*PAR0:	puis je referme mon sandwich . 37480_38740
+%wor:	puis 37480_37660 je 37840_38020 referme 38160_38300 mon 38370_38440 sandwich 38590_38740 .
+*PAR0:	je le coupe en deux . 38880_39520
+%wor:	je 38880_39020 le 39050_39080 coupe 39160_39240 en 39300_39360 deux 39440_39520 .
+*PAR0:	c 'est pas vrai . 41000_41560
+%wor:	c 41000_41180 'est 41180_41260 pas 41340_41420 vrai 41490_41560 .
+@End

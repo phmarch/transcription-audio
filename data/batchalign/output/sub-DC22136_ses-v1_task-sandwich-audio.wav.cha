@@ -1,0 +1,23 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22136_ses-v1_task-sandwich-audio, audio
+*PAR0:	Donc j 'aimerais que tu me décrives comment tu fais un sandwich aux jambons et fromages . 880_5300
+%wor:	Donc 880_1120 j 1180_1240 'aimerais 1240_1500 que 1580_1660 tu 1760_1860 me 1920_1980 décrives 2290_2600 comment 2780_2960 tu 3060_3160 fais 3240_3320 un 3440_3560 sandwich 3810_4060 aux 4210_4360 jambons 4520_4680 et 4750_4820 fromages 5060_5300 .
+*PAR0:	Je prends mon pain avec un couteau . 6960_9000
+%wor:	Je 6960_7200 prends 7270_7340 mon 7460_7580 pain 7670_7760 avec 8110_8460 un 8540_8620 couteau 8810_9000 .
+*PAR0:	Je coupe mon pain en deux . 10080_11180
+%wor:	Je 10080_10320 coupe 10420_10520 mon 10600_10680 pain 10780_10880 en 10970_11060 deux 11120_11180 .
+*PAR0:	Je mets mon jambon mon fromage peut être de la mayo . 13040_17480
+%wor:	Je 13040_13280 mets 13350_13420 mon 13510_13600 jambon 13840_14080 mon 14800_15020 fromage 15330_15640 peut être 16830_17060 de 17100_17140 la 17170_17200 mayo 17340_17480 .
+*PAR0:	Je mets le four à boire avec 425 . 18810_20500
+%wor:	Je 18810_18900 mets 18950_19000 le 19050_19100 four 19170_19240 à 19320_19400 boire 19530_19660 avec 19810_19960 425 20230_20500 .
+*PAR0:	Je le mets pendant trois minutes . 21580_22860
+%wor:	Je 21580_21820 le 21890_21960 mets 22040_22120 pendant 22230_22340 trois 22450_22560 minutes 22710_22860 .
+*PAR0:	Je le ressors après je le mange . 23650_25060
+%wor:	Je 23650_23860 le 23930_24000 ressors 24140_24280 après 24400_24520 je 24670_24720 le 24780_24840 mange 24950_25060 .
+*PAR0:	Parfait merci . 27340_27900
+%wor:	Parfait 27340_27580 merci 27790_27900 .
+@End

@@ -1,0 +1,13 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22135_ses-v1_task-wab-audio, audio
+*PAR0:	Je vois une maison avec une auto ça a l 'air d 'être une famille avec des enfants qui jouent . 3740_12980
+%wor:	Je 3740_3940 vois 4020_4100 une 4160_4220 maison 4490_4760 avec 5670_6580 une 6690_6800 auto 6990_7180 ça 7500_7540 a 7630_7720 l 7740_7760 'air 7760_7860 d 7900_7940 'être 7940_8120 une 8290_8460 famille 9000_9540 avec 10440_11340 des 11470_11600 enfants 11840_12080 qui 12200_12320 jouent 12650_12980 .
+*PAR0:	un chien une maison sur le bord de l 'eau probablement parce qu 'il y a un bateau au . 13250_18100
+%wor:	un 13250_13300 chien 13640_13980 une 15050_15140 maison 15290_15440 sur 15520_15600 le 15670_15740 bord 15800_15860 de 15930_16000 l 16060_16120 'eau 16120_16240 probablement 16570_16900 parce 17020_17140 qu 17190_17240 'il 17240_17340 y 17350_17360 a 17380_17400 un 17450_17500 bateau 17690_17880 au 17990_18100 .
+*PAR0:	et un bateau au bord de l 'eau probablement parce qu 'il y a un bateau au bord de l 'eau probablement . 30210_38720
+%wor:	et 30210_30420 un 30950_31480 bateau au 32230_32980 bord de l 'eau 32980_33660 probablement 34180_34700 parce qu 35870_37040 'il 37040_37140 y a un bateau 37550_37960 au bord de 38140_38320 l 'eau probablement 38520_38720 .
+@End

@@ -1,0 +1,19 @@
+@UTF8
+@Begin
+@Languages:	fra
+@Participants:	PAR0 Participant
+@ID:	fra|corpus_name|PAR0|||||Participant|||
+@Media:	sub-DC22128_ses-v1_task-sandwich-audio, audio
+*PAR0:	Pour faire un sandwich au jambon et au fromage je sors le pain le jambon et le fromage du . 2460_10600
+%wor:	Pour 2460_2840 faire 3020_3200 un 3310_3420 sandwich 3640_3860 au 4050_4240 jambon 4440_4640 et 4710_4780 au 4830_4880 fromage 5160_5440 je 5710_5800 sors 6080_6360 le 6550_6740 pain 6910_7080 le 7780_8080 jambon 8390_8700 et 9020_9340 le 9410_9480 fromage 9820_10160 du 10380_10600 .
+*PAR0:	frigo . 10820_11040
+%wor:	frigo 10820_11040 .
+*PAR0:	Je me prends deux morceaux de pain je les mets à plat sur une assiette sur le . 12040_19980
+%wor:	Je 12040_12420 me 12600_12780 prends 12940_13100 deux 13400_13700 morceaux 14200_14700 de 14810_14920 pain 15090_15260 je 15800_15960 les 16030_16100 mets 16210_16320 à 16470_16620 plat 16750_16880 sur 17250_17620 une 17870_18120 assiette 18770_19420 sur 19630_19840 le 19910_19980 .
+*PAR0:	comptoir . 20230_20480
+%wor:	comptoir 20230_20480 .
+*PAR0:	Je mets une tranche de jambon et une tranche de fromage sur un des côtés d 'un . 21070_30420
+%wor:	Je 21070_21460 mets 21660_21860 une 22270_22680 tranche 22910_23140 de 23220_23300 jambon 23540_23780 et 23980_24180 une 24310_24440 tranche 24780_25120 de 25330_25540 fromage 25950_26360 sur 27130_27900 un 28090_28280 des 28640_29000 côtés 29280_29560 d 29910_30260 'un 30260_30420 .
+*PAR0:	morceau de pain puis je referme l 'autre morceau de pain sur le dessus et je le coupe en deux . 30570_37100
+%wor:	morceau 30570_30720 de 30770_30820 pain 30930_31040 puis 31620_31940 je 32150_32360 referme 32690_33020 l 33150_33280 'autre 33280_33540 morceau 33740_33940 de 33990_34040 pain 34160_34280 sur 34480_34680 le 34750_34820 dessus 35040_35260 et 35730_36200 je 36270_36340 le 36420_36500 coupe 36620_36740 en 36860_36980 deux 37040_37100 .
+@End

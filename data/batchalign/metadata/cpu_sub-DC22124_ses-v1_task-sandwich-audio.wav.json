@@ -1,0 +1,8 @@
+{
+    "audio_file": "./data/input/sub-DC22124_ses-v1_task-sandwich-audio.wav",
+    "torch_backend": "cpu",
+    "torch_dtype": "torch.float32",
+    "audio_duration_s": 50.00544217687075,
+    "pipeline_creation_time_s": 4.363579988479614,
+    "transcription_time_s": 14.0069739818573
+}

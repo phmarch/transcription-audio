@@ -1,0 +1,8 @@
+{
+    "audio_file": "./data/input/sub-DC22135_ses-v1_task-wab-audio.wav",
+    "torch_backend": "mps",
+    "torch_dtype": "torch.float32",
+    "audio_duration_s": 39.9233560090703,
+    "pipeline_creation_time_s": 4.31787896156311,
+    "transcription_time_s": 4.604721307754517
+}
