@@ -1,12 +1,16 @@
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
+    // deactivate && pkill -f \"${workspaceFolder}/.venv.*ipykernel\" && uv sync --group batchalign2 && ${workspaceFolder}/.venv/bin/activate"
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "i: initialize a runner (run from its directory)",
+            "label": "batchalign2: Switch to batchalign2 environment",
             "type": "shell",
-            "command": "cp ../pyproject.toml.template pyproject.toml"
+            "command": "echo \"[1/4] Deactivating current shell venv...\"; deactivate 2>/dev/null || true; echo \"[2/4] Killing root .venv ipykernel processes...\"; pgrep -af \"ipykernel_launcher\" | grep \"${workspaceFolder}/.venv\" | grep -v \"grep\" | awk '{print $1}' | xargs -r kill && echo \"  ✓ killed matching ipykernel process(es)\" || echo \"  ✓ no matching ipykernel process found\"; echo \"[3/4] Syncing uv group: batchalign2...\"; uv sync --group batchalign2 && echo \"  ✓ uv sync completed\"; echo \"[4/4] Activating root .venv...\"; source \"${workspaceFolder}/.venv/bin/activate\" && echo \"  ✓ activated: $VIRTUAL_ENV\"",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
         }
     ]
 }
